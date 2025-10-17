@@ -11,7 +11,6 @@ Adapter for easy exporting your collected metrics from your application to the [
 
 ## One more? Why not X?
 
- - https://github.com/discourse/prometheus_exporter – built on assumption that various processes (web, jobs, etc) are able to communicate between them on single machine. But in containerized environments all your processes on different “machines”!
  - https://github.com/getqujing/prome – actually inspired this all these gems but seems abandoned and lacks extensibility.
 
 ## Installation
